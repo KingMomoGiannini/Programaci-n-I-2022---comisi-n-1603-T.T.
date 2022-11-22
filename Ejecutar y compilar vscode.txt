@@ -1,0 +1,12 @@
+Para g++
+		{
+			"label": "Ejecutar C/C++: g++.exe compilar archivo activo",
+			"command": "./${fileBasenameNoExtension}.exe",
+			"dependsOn": "C/C++: g++.exe compilar archivo activo"
+		}
+para gcc 
+		{
+			"label": "Ejecutar C/C++: gcc.exe compilar archivo activo",
+			"command": "./${fileBasenameNoExtension}.exe",
+			"dependsOn": "C/C++: gcc.exe compilar archivo activo"
+		}
