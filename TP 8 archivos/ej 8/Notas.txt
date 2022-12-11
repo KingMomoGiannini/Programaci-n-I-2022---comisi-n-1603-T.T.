@@ -1,0 +1,15 @@
+Legajo de alumno: 1657
+primer nota de alumno: 6
+segunda nota de alumno: 9
+promedio de alumno: 7
+--------------------------------------
+Legajo de alumno: 1596
+primer nota de alumno: 8
+segunda nota de alumno: 6
+promedio de alumno: 7
+--------------------------------------
+Legajo de alumno: 1234
+primer nota de alumno: 10
+segunda nota de alumno: 9
+promedio de alumno: 9
+--------------------------------------
