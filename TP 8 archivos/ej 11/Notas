@@ -2,3 +2,5 @@
 - Realmente me costó realizar el ejercicio, por una cuestion de querer utilizar las funciones fread() y fwrite(), 
 son los conceptos que todavía no aprendí a utilizar en profundidad. Opte por utilizar las funciones fprintf() y fgets,
 porque era la unica forma que encontre para verificar que aquello que se almacenaba en el archivo.dat era lo correcto.
+Realicé dos versiones, ya que en la versión original le agregué información extra a los datos que se almacenan en el archivo.
+En la segunda versión solo deje la información ingresada por teclado, para poder utilizar el archivo en el proximo ejercicio.
