@@ -1,0 +1,4 @@
+11/12/2022
+- Realmente me costó realizar el ejercicio, por una cuestion de querer utilizar las funciones fread() y fwrite(), 
+son los conceptos que todavía no aprendí a utilizar en profundidad. Opte por utilizar las funciones fprintf() y fgets,
+porque era la unica forma que encontre para verificar que aquello que se almacenaba en el archivo.dat era lo correcto.
